@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxam.Sendbird.Droid", "Naxam.Sendbird.Droid\Naxam.Sendbird.Droid.csproj", "{C79FAD42-6FEE-44AA-995A-28BF458AEBF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{6BD03B9D-C5B7-45EF-83FF-41EBD1E7A4C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendbirdQs", "demo\SendbirdQs\SendbirdQs.csproj", "{FD8EFC4E-D7D2-40BD-91AB-B9146473AD1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C79FAD42-6FEE-44AA-995A-28BF458AEBF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79FAD42-6FEE-44AA-995A-28BF458AEBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79FAD42-6FEE-44AA-995A-28BF458AEBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79FAD42-6FEE-44AA-995A-28BF458AEBF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8EFC4E-D7D2-40BD-91AB-B9146473AD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8EFC4E-D7D2-40BD-91AB-B9146473AD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8EFC4E-D7D2-40BD-91AB-B9146473AD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8EFC4E-D7D2-40BD-91AB-B9146473AD1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FD8EFC4E-D7D2-40BD-91AB-B9146473AD1F} = {6BD03B9D-C5B7-45EF-83FF-41EBD1E7A4C1}
+	EndGlobalSection
+EndGlobal
